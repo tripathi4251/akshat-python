@@ -1,3 +1,6 @@
+#akshat-python
+easy to medium coding questions of tuple,list and loops
+
 This repository contains Python practice questions and solutions.
 
 Topics included:
