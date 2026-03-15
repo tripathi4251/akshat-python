@@ -26,4 +26,4 @@ for i in range(1,51):
 
 #6 print the reverse counting from 10 to 1
 for i in range(10,0,-1):
-    print(i)
+    print(i) 
