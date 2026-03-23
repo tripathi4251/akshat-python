@@ -1,3 +1,5 @@
+#Merge dictionaries Combine two dictionaries into one.#
+
 dict1= { 
     "brand": "ford",
     "color": "red",
