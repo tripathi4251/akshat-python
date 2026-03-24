@@ -1,5 +1,5 @@
-
 This repository contains easy to medium level Python coding questions focused on building strong fundamentals. It is specially designed for beginners who want to improve their logic and problem-solving skills.
+
 
 🚀 Topics Covered
 This repo includes practice questions from the following Python topics:
@@ -9,6 +9,8 @@ This repo includes practice questions from the following Python topics:
 🔗 Tuples
 🧠 Sets
 📖 Dictionaries
+
+
 
 🎯 Purpose of This Repository
 Strengthen Python fundamentals
