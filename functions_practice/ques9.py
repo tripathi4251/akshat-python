@@ -14,7 +14,6 @@ print(largest())
 
 lst=[5,9,10,15,16]
 def calculate():
-     for i in lst:
           return sum(lst)
     
 print(calculate())
