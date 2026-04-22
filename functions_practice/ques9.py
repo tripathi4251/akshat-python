@@ -6,3 +6,15 @@ def largest():
     return max(lst)
 
 print(largest())
+
+
+
+#sum of list
+#return sum of all list elements
+
+lst=[5,9,10,15,16]
+def calculate():
+     for i in lst:
+          return sum(lst)
+    
+print(calculate())
