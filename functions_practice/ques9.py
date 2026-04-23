@@ -17,3 +17,9 @@ def calculate():
           return sum(lst)
     
 print(calculate())
+
+
+#Reverse String
+# Return reversed string.
+def reverse_string(s):
+    return s[::-1]
