@@ -1,5 +1,5 @@
-#Check palindrome
-# "madam" → True
+# Count consonants
+# "hello" → 3
 
 str2="hello"
 count=0
