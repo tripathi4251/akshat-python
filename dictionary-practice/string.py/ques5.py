@@ -11,3 +11,12 @@ print(a==b)
 
 str5="hello"
 print(str5.replace("l" ,"o"))
+
+
+
+#Print each character using loop
+str6="akshat"
+for x in str6:
+    print(x)
+
+
