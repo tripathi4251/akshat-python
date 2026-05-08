@@ -19,7 +19,7 @@ for i in range(1,11):
 
 #5 take out the sum  of 1 to 50 numbers
 sum=0
-for i in range(1,51):
+for i in range(1,55):
     sum+=i
     print("sum=", sum)
     
